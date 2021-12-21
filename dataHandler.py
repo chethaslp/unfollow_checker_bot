@@ -55,7 +55,7 @@ texts ={
 	"welcome":" Welcome to Unfollow Checker Bot for Instagram 🙏 ! \n\n Use /help for more info about me.",
 	"info":"Bot developed by CLP. \n So far %s Users are using me.",
 	"config_me":"Configure me with the /config command.",
-	"malayalam":"Illa setta, Ariyilla.. 😜😜",
+	"malayalam":"Illa.",
 
 	"config_start":"Lets config your account. \n\nNOTE : Please make sure you are entering an account that you have in possession. If not then this can lead to further problems.",
 	"enter_ig_us":"Enter your instagram username.",
